@@ -13,5 +13,7 @@ Filter criteria:
 - Geopolitical entity: 33 European countries
 - Countries include: Belgium, Bulgaria, Czechia, Denmark, Germany, Estonia, Ireland, Greece, Spain, France, Croatia, Italy, Cyprus, Latvia, Lithuania, Luxembourg, Hungary, Malta, Netherlands, Austria, Poland, Portugal, Romania, Slovenia, Slovakia, Finland, Sweden, Iceland, Norway, Switzerland, United Kingdom, Serbia, Türkiye
 - Place of residence: All deaths reported in the country
+  
 Result: 4,752 entries
+
 I filtered these countries and timespan to match my first dataset (WHO PM2.5 concentrations). Then exported as JSON-stat and uploaded to this repository.
